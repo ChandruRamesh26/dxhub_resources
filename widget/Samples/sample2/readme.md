@@ -1,8 +1,8 @@
 
-#### sample2.md
+#### sample1.md
 
 ```markdown
-# Sample 2
+# Sample 1
 
 **Name:** Example Sample
 **Description:** This is an example code sample.
@@ -11,6 +11,6 @@
 ```javascript
 // Your sample JavaScript code here
 function sampleFunction1() {
-    console.log("This is sample 2");
+    console.log("This is sample 1");
 }
 sampleFunction1();
